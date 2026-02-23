@@ -2,6 +2,7 @@ import { notFound } from "next/navigation";
 import { getAllPeople, getPersonBySlug } from "@/lib/people";
 import { daysSinceLastContact } from "@/lib/utils";
 import { CommunicationTimeline } from "@/components/accountability/CommunicationTimeline";
+import { SalaryHistory } from "@/components/accountability/SalaryHistory";
 import type { Metadata } from "next";
 
 export async function generateStaticParams() {
@@ -87,6 +88,18 @@ export default async function PersonPage({
               </p>
             )}
           </div>
+        </section>
+
+        {/* Public Salary Record */}
+        <section>
+          <h2 className="text-2xl font-bold text-[var(--color-navy)]">
+            Public Salary Record
+          </h2>
+          <p className="mt-2 text-gray-600 mb-4">
+            Ontario&apos;s Public Sector Salary Disclosure Act requires
+            disclosure of employees earning $100,000 or more annually.
+          </p>
+          <SalaryHistory sunshineList={person.sunshineList} />
         </section>
 
         {/* Communication Record */}

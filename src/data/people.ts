@@ -14,6 +14,25 @@ export const people: Person[] = [
     },
     communications: [],
     publicStatements: [],
+    sunshineList: {
+      records: [
+        { year: 2024, salary: 372599.46, taxableBenefits: 1748.20, position: "President and CEO", employer: "Cambridge Memorial Hospital" },
+        { year: 2023, salary: 331340.04, taxableBenefits: 1662.62, position: "President and CEO", employer: "Cambridge Memorial Hospital" },
+        { year: 2022, salary: 332600.44, taxableBenefits: 1578.38, position: "President and CEO", employer: "Cambridge Memorial Hospital" },
+        { year: 2021, salary: 329348.49, taxableBenefits: 5344.48, position: "Chief Executive Officer", employer: "Cambridge Memorial Hospital" },
+        { year: 2020, salary: 343562.01, taxableBenefits: 13445.45, position: "Chief Executive Officer", employer: "Cambridge Memorial Hospital" },
+        { year: 2019, salary: 327750.45, taxableBenefits: 13191.85, position: "Chief Executive Officer", employer: "Cambridge Memorial Hospital" },
+        { year: 2018, salary: 329100.44, taxableBenefits: 13300.20, position: "President and CEO", employer: "Cambridge Memorial Hospital" },
+        { year: 2017, salary: 328350.42, taxableBenefits: 13294.04, position: "President and CEO", employer: "Cambridge Memorial Hospital" },
+        { year: 2016, salary: 322050.44, taxableBenefits: 13237.38, position: "President and CEO", employer: "Cambridge Memorial Hospital" },
+        { year: 2015, salary: 326895.47, taxableBenefits: 13108.08, position: "President and CEO", employer: "Cambridge Memorial Hospital" },
+        { year: 2014, salary: 339412.43, taxableBenefits: 1108.08, position: "President and CEO", employer: "Cambridge Memorial Hospital" },
+        { year: 2013, salary: 315172.42, taxableBenefits: 13087.73, position: "President and CEO", employer: "Cambridge Memorial Hospital" },
+        { year: 2012, salary: 327113.44, taxableBenefits: 13085.88, position: "President and CEO", employer: "Cambridge Memorial Hospital" },
+        { year: 2011, salary: 330600.45, taxableBenefits: 13085.88, position: "President and CEO", employer: "Cambridge Memorial Hospital" },
+        { year: 2010, salary: 281827.48, taxableBenefits: 13070.08, position: "President and CEO", employer: "Cambridge Memorial Hospital" },
+      ],
+    },
   },
   {
     slug: "dr-winnie-lee",
@@ -27,6 +46,10 @@ export const people: Person[] = [
     },
     communications: [],
     publicStatements: [],
+    sunshineList: {
+      records: [],
+      notes: "Fee-for-service physician billing OHIP directly. Not a salaried hospital employee.",
+    },
   },
   {
     slug: "stephanie-pearsall",
@@ -40,6 +63,23 @@ export const people: Person[] = [
     },
     communications: [],
     publicStatements: [],
+    sunshineList: {
+      records: [
+        { year: 2024, salary: 235618.75, taxableBenefits: 1242.88, position: "VP Clinical Programs, Chief Nursing Executive", employer: "Cambridge Memorial Hospital" },
+        { year: 2023, salary: 206473.09, taxableBenefits: 1184.04, position: "VP Clinical Programs, Chief Nursing Executive", employer: "Cambridge Memorial Hospital" },
+        { year: 2022, salary: 195693.66, taxableBenefits: 1024.56, position: "VP Clinical Programs, Chief Nursing Executive", employer: "Cambridge Memorial Hospital" },
+        { year: 2020, salary: 143100.87, taxableBenefits: 1037.67, position: "Program Director Surgery and Professional Practice", employer: "St. Mary's General Hospital" },
+        { year: 2019, salary: 134629.79, taxableBenefits: 8817.67, position: "Integrated VP Patient Services and Chief Nursing Executive", employer: "North Wellington Health Care Corp" },
+        { year: 2018, salary: 136962.40, taxableBenefits: 11106.49, position: "Integrated VP Patient Services and Chief Nursing Executive", employer: "North Wellington Health Care Corp" },
+        { year: 2017, salary: 132386.80, taxableBenefits: 11301.46, position: "Integrated VP Patient Services and Chief Nursing Executive", employer: "North Wellington Health Care Corp" },
+        { year: 2016, salary: 106927.80, taxableBenefits: 8373.09, position: "Integrated VP Patient Services and Chief Nursing Executive", employer: "North Wellington Health Care Corp" },
+        { year: 2014, salary: 110903.53, taxableBenefits: 454.36, position: "Director Maternity Newborn", employer: "Guelph General Hospital" },
+        { year: 2013, salary: 104793.78, taxableBenefits: 432.42, position: "Director Critical Care Unit", employer: "Guelph General Hospital" },
+        { year: 2012, salary: 102507.67, taxableBenefits: 367.70, position: "Director Critical Care Unit", employer: "Guelph General Hospital" },
+        { year: 2011, salary: 101994.75, taxableBenefits: 367.86, position: "Director", employer: "Guelph General Hospital" },
+        { year: 2010, salary: 101742.30, taxableBenefits: 369.09, position: "Director", employer: "Guelph General Hospital" },
+      ],
+    },
   },
   {
     slug: "mari-iromoto",
@@ -53,6 +93,21 @@ export const people: Person[] = [
     },
     communications: [],
     publicStatements: [],
+    sunshineList: {
+      records: [
+        { year: 2024, salary: 201637.35, taxableBenefits: 1154.64, position: "VP People, Strategy", employer: "Cambridge Memorial Hospital" },
+        { year: 2023, salary: 196909.39, taxableBenefits: 963.13, position: "Senior Director, Strategy And Performance, CIO", employer: "Cambridge Memorial Hospital" },
+        { year: 2022, salary: 152256.00, taxableBenefits: 843.20, position: "Senior Director, Strategy, Performance and CIO", employer: "Cambridge Memorial Hospital" },
+        { year: 2021, salary: 152256.00, taxableBenefits: 718.20, position: "Senior Director", employer: "Cambridge Memorial Hospital" },
+        { year: 2020, salary: 158112.00, taxableBenefits: 772.14, position: "Senior Director, Strategy And Performance And CIO", employer: "Cambridge Memorial Hospital" },
+        { year: 2018, salary: 145660.66, taxableBenefits: 878.36, position: "Director, Quality Operational Excellence", employer: "Michael Garron Hospital" },
+        { year: 2017, salary: 142432.60, taxableBenefits: 828.65, position: "Director, Quality and Operational Excellence", employer: "Michael Garron Hospital" },
+        { year: 2016, salary: 141026.60, taxableBenefits: 714.00, position: "Director, Quality, Safety and Improvement", employer: "Michael Garron Hospital" },
+        { year: 2015, salary: 139506.13, taxableBenefits: 705.60, position: "Director, Quality, Safety & Improvement", employer: "Toronto East General Hospital" },
+        { year: 2014, salary: 137483.44, taxableBenefits: 706.47, position: "Leader, Improvement Team", employer: "Toronto East General Hospital" },
+        { year: 2013, salary: 128100.20, taxableBenefits: 759.56, position: "Leader, Improvement Team", employer: "Toronto East General Hospital" },
+      ],
+    },
   },
   {
     slug: "trevor-clark",
@@ -66,6 +121,14 @@ export const people: Person[] = [
     },
     communications: [],
     publicStatements: [],
+    sunshineList: {
+      records: [
+        { year: 2024, salary: 147915.16, taxableBenefits: 944.02, position: "VP Finance, Corporate Services, CFO", employer: "Cambridge Memorial Hospital" },
+        { year: 2023, salary: 122150.40, taxableBenefits: 712.79, position: "VP Finance and Corporate Services, CFO", employer: "Cambridge Memorial Hospital" },
+        { year: 2022, salary: 213743.71, taxableBenefits: 1142.26, position: "VP Finance, Corporate Services and CFO", employer: "Cambridge Memorial Hospital" },
+        { year: 2021, salary: 209368.77, taxableBenefits: 972.96, position: "VP Finance and Corporate Services", employer: "Cambridge Memorial Hospital" },
+      ],
+    },
   },
   {
     slug: "lynn-woeller",
@@ -79,6 +142,10 @@ export const people: Person[] = [
     },
     communications: [],
     publicStatements: [],
+    sunshineList: {
+      records: [],
+      notes: "Board Chair is a voluntary position. Not a salaried hospital employee.",
+    },
   },
   {
     slug: "diane-wilkinson",
@@ -92,6 +159,10 @@ export const people: Person[] = [
     },
     communications: [],
     publicStatements: [],
+    sunshineList: {
+      records: [],
+      notes: "Board Vice Chair is a voluntary position. Not a salaried hospital employee.",
+    },
   },
   // Department Chiefs
   {
@@ -104,6 +175,10 @@ export const people: Person[] = [
     contactInfo: { phone: "519-621-2333" },
     communications: [],
     publicStatements: [],
+    sunshineList: {
+      records: [],
+      notes: "Fee-for-service physician billing OHIP directly. Not a salaried hospital employee.",
+    },
   },
   {
     slug: "dr-j-legassie",
@@ -115,6 +190,10 @@ export const people: Person[] = [
     contactInfo: { phone: "519-621-2333" },
     communications: [],
     publicStatements: [],
+    sunshineList: {
+      records: [],
+      notes: "Fee-for-service physician billing OHIP directly. Not a salaried hospital employee.",
+    },
   },
   {
     slug: "dr-a-nguyen",
@@ -126,6 +205,10 @@ export const people: Person[] = [
     contactInfo: { phone: "519-621-2333" },
     communications: [],
     publicStatements: [],
+    sunshineList: {
+      records: [],
+      notes: "Fee-for-service physician billing OHIP directly. Not a salaried hospital employee.",
+    },
   },
   {
     slug: "dr-a-sharma",
@@ -137,6 +220,10 @@ export const people: Person[] = [
     contactInfo: { phone: "519-621-2333" },
     communications: [],
     publicStatements: [],
+    sunshineList: {
+      records: [],
+      notes: "Fee-for-service physician billing OHIP directly. Not a salaried hospital employee.",
+    },
   },
   {
     slug: "dr-l-green",
@@ -148,6 +235,10 @@ export const people: Person[] = [
     contactInfo: { phone: "519-621-2333" },
     communications: [],
     publicStatements: [],
+    sunshineList: {
+      records: [],
+      notes: "Fee-for-service physician billing OHIP directly. Not a salaried hospital employee.",
+    },
   },
   {
     slug: "dr-f-esan",
@@ -159,6 +250,10 @@ export const people: Person[] = [
     contactInfo: { phone: "519-621-2333" },
     communications: [],
     publicStatements: [],
+    sunshineList: {
+      records: [],
+      notes: "Fee-for-service physician billing OHIP directly. Not a salaried hospital employee.",
+    },
   },
   {
     slug: "dr-m-hindle",
@@ -170,6 +265,10 @@ export const people: Person[] = [
     contactInfo: { phone: "519-621-2333" },
     communications: [],
     publicStatements: [],
+    sunshineList: {
+      records: [],
+      notes: "Fee-for-service physician billing OHIP directly. Not a salaried hospital employee.",
+    },
   },
   {
     slug: "dr-j-bourgeois",
@@ -181,6 +280,20 @@ export const people: Person[] = [
     contactInfo: { phone: "519-621-2333" },
     communications: [],
     publicStatements: [],
+    sunshineList: {
+      records: [
+        { year: 2024, salary: 374225.44, taxableBenefits: 0, position: "Pathologist", employer: "Cambridge Memorial Hospital" },
+        { year: 2023, salary: 353937.17, taxableBenefits: 0, position: "Pathologist", employer: "Cambridge Memorial Hospital" },
+        { year: 2022, salary: 371745.07, taxableBenefits: 0, position: "Pathologist", employer: "Cambridge Memorial Hospital" },
+        { year: 2021, salary: 306840.40, taxableBenefits: 0, position: "Pathologist", employer: "Cambridge Memorial Hospital" },
+        { year: 2020, salary: 318511.60, taxableBenefits: 0, position: "Pathologist", employer: "Cambridge Memorial Hospital" },
+        { year: 2019, salary: 227111.40, taxableBenefits: 0, position: "Pathologist", employer: "Cambridge Memorial Hospital" },
+        { year: 2014, salary: 296820.64, taxableBenefits: 0, position: "Pathologist", employer: "Cambridge Memorial Hospital" },
+        { year: 2013, salary: 226023.09, taxableBenefits: 0, position: "Pathologist", employer: "Cambridge Memorial Hospital" },
+        { year: 2010, salary: 172911.04, taxableBenefits: 0, position: "Pathologist", employer: "Cambridge Memorial Hospital" },
+      ],
+      notes: "Highest earner at CMH in 2022-2024, surpassing the CEO. Pathologists are salaried hospital employees unlike most physicians.",
+    },
   },
   {
     slug: "dr-a-mendlowitz",
@@ -192,6 +305,10 @@ export const people: Person[] = [
     contactInfo: { phone: "519-621-2333" },
     communications: [],
     publicStatements: [],
+    sunshineList: {
+      records: [],
+      notes: "Fee-for-service physician billing OHIP directly. Not a salaried hospital employee.",
+    },
   },
   {
     slug: "dr-m-rajguru",
@@ -203,6 +320,10 @@ export const people: Person[] = [
     contactInfo: { phone: "519-621-2333" },
     communications: [],
     publicStatements: [],
+    sunshineList: {
+      records: [],
+      notes: "Fee-for-service physician billing OHIP directly. Not a salaried hospital employee.",
+    },
   },
   // Government Officials
   {
@@ -219,6 +340,10 @@ export const people: Person[] = [
     },
     communications: [],
     publicStatements: [],
+    sunshineList: {
+      records: [],
+      notes: "Municipal salary data not available through Ontario Sunshine List.",
+    },
   },
   {
     slug: "brian-riddell",
@@ -234,6 +359,13 @@ export const people: Person[] = [
     },
     communications: [],
     publicStatements: [],
+    sunshineList: {
+      records: [
+        { year: 2024, salary: 133217.04, taxableBenefits: 455.29, position: "Parliamentary Assistant, Public and Business Service Delivery", employer: "Legislative Assembly" },
+        { year: 2023, salary: 133217.04, taxableBenefits: 190.32, position: "Parliamentary Assistant, Public and Business Service Delivery", employer: "Legislative Assembly" },
+      ],
+      notes: "First elected in June 2022. 2023 is his first full year on the Sunshine List.",
+    },
   },
   {
     slug: "connie-cody",
@@ -248,6 +380,10 @@ export const people: Person[] = [
     },
     communications: [],
     publicStatements: [],
+    sunshineList: {
+      records: [],
+      notes: "Federal MP. Not subject to Ontario's Public Sector Salary Disclosure Act. Federal MP base salary is approximately $194,600/year.",
+    },
   },
   {
     slug: "karen-redman",
@@ -263,6 +399,10 @@ export const people: Person[] = [
     },
     communications: [],
     publicStatements: [],
+    sunshineList: {
+      records: [],
+      notes: "Regional Chair salary data not found in Sunshine List search results.",
+    },
   },
   {
     slug: "doug-craig",
@@ -277,6 +417,10 @@ export const people: Person[] = [
     },
     communications: [],
     publicStatements: [],
+    sunshineList: {
+      records: [],
+      notes: "Regional Councillor salary data not found in Sunshine List search results.",
+    },
   },
   {
     slug: "pam-wolf",
@@ -291,6 +435,10 @@ export const people: Person[] = [
     },
     communications: [],
     publicStatements: [],
+    sunshineList: {
+      records: [],
+      notes: "Regional Councillor salary data not found in Sunshine List search results.",
+    },
   },
   {
     slug: "sylvia-jones",
@@ -306,6 +454,27 @@ export const people: Person[] = [
     },
     communications: [],
     publicStatements: [],
+    sunshineList: {
+      records: [
+        { year: 2024, salary: 165851.04, taxableBenefits: 563.46, position: "Minister of Health", employer: "Legislative Assembly" },
+        { year: 2023, salary: 165851.04, taxableBenefits: 233.64, position: "Minister of Health", employer: "Legislative Assembly" },
+        { year: 2022, salary: 165851.04, taxableBenefits: 233.64, position: "Minister of Health", employer: "Legislative Assembly" },
+        { year: 2021, salary: 165851.04, taxableBenefits: 247.02, position: "Solicitor General", employer: "Legislative Assembly" },
+        { year: 2020, salary: 165851.04, taxableBenefits: 258.84, position: "Solicitor General", employer: "Legislative Assembly" },
+        { year: 2019, salary: 165851.03, taxableBenefits: 262.97, position: "Solicitor General", employer: "Legislative Assembly" },
+        { year: 2018, salary: 141474.42, taxableBenefits: 250.38, position: "Minister, Community Safety and Correctional Services", employer: "Legislative Assembly" },
+        { year: 2017, salary: 116550.00, taxableBenefits: 217.92, position: "Member, Provincial Parliament", employer: "Legislative Assembly" },
+        { year: 2016, salary: 116550.00, taxableBenefits: 231.51, position: "Member, Provincial Parliament", employer: "Legislative Assembly" },
+        { year: 2015, salary: 126667.33, taxableBenefits: 258.36, position: "Member, Provincial Parliament", employer: "Legislative Assembly" },
+        { year: 2014, salary: 131118.96, taxableBenefits: 264.48, position: "Caucus Chair, Official Opposition", employer: "Legislative Assembly" },
+        { year: 2013, salary: 131118.96, taxableBenefits: 235.93, position: "Caucus Chair, Official Opposition", employer: "Legislative Assembly" },
+        { year: 2012, salary: 129770.65, taxableBenefits: 185.01, position: "Caucus Chair, Official Opposition", employer: "Legislative Assembly" },
+        { year: 2011, salary: 118664.94, taxableBenefits: 176.73, position: "Deputy House Leader, Official Opposition", employer: "Legislative Assembly" },
+        { year: 2010, salary: 116550.00, taxableBenefits: 196.32, position: "Member, Provincial Parliament", employer: "Legislative Assembly" },
+        { year: 2009, salary: 116550.00, taxableBenefits: 200.10, position: "Member, Provincial Parliament", employer: "Legislative Assembly" },
+        { year: 2008, salary: 115687.50, taxableBenefits: 209.88, position: "Member, Provincial Parliament", employer: "Legislative Assembly" },
+      ],
+    },
   },
   // Regulatory Bodies
   {
@@ -321,6 +490,15 @@ export const people: Person[] = [
     },
     communications: [],
     publicStatements: [],
+    sunshineList: {
+      records: [
+        { year: 2024, salary: 220000.27, taxableBenefits: 2825.04, position: "Patient Ombudsman", employer: "Patient Ombudsman" },
+        { year: 2023, salary: 220000.28, taxableBenefits: 2915.04, position: "Patient Ombudsman", employer: "Patient Ombudsman" },
+        { year: 2022, salary: 223391.91, taxableBenefits: 2465.04, position: "Patient Ombudsman", employer: "Patient Ombudsman" },
+        { year: 2021, salary: 202398.25, taxableBenefits: 687.10, position: "Patient Ombudsman", employer: "Patient Ombudsman" },
+        { year: 2018, salary: 155398.41, taxableBenefits: 651.99, position: "Executive Director, Patient Ombudsman", employer: "Ontario Health Quality Council" },
+      ],
+    },
   },
   {
     slug: "patricia-deguire",
@@ -335,6 +513,14 @@ export const people: Person[] = [
     },
     communications: [],
     publicStatements: [],
+    sunshineList: {
+      records: [
+        { year: 2024, salary: 173587.96, taxableBenefits: 225.72, position: "Chief Commissioner", employer: "Ontario Human Rights Commission" },
+        { year: 2023, salary: 173587.96, taxableBenefits: 225.72, position: "Chief Commissioner", employer: "Ontario Human Rights Commission" },
+        { year: 2022, salary: 173587.96, taxableBenefits: 225.72, position: "Chief Commissioner", employer: "Ontario Human Rights Commission" },
+      ],
+      notes: "Salary frozen at exactly $173,587.96 for three consecutive years (2022-2024).",
+    },
   },
   {
     slug: "dr-nancy-whitmore",
@@ -349,6 +535,18 @@ export const people: Person[] = [
     },
     communications: [],
     publicStatements: [],
+    sunshineList: {
+      records: [
+        { year: 2018, salary: 133139.77, taxableBenefits: 1125.26, position: "President and CEO", employer: "St. Thomas Elgin General Hospital" },
+        { year: 2017, salary: 205569.00, taxableBenefits: 2449.48, position: "President and CEO", employer: "St. Thomas Elgin General Hospital" },
+        { year: 2016, salary: 226760.24, taxableBenefits: 2722.70, position: "President and CEO", employer: "St. Thomas Elgin General Hospital" },
+        { year: 2015, salary: 239365.25, taxableBenefits: 2741.75, position: "Vice President and Chief of Staff", employer: "St. Thomas Elgin General Hospital" },
+        { year: 2014, salary: 230499.88, taxableBenefits: 2537.68, position: "Vice President Medical Professional Staff", employer: "St. Thomas Elgin General Hospital" },
+        { year: 2013, salary: 230499.88, taxableBenefits: 2551.45, position: "Vice President Medical Professional Staff", employer: "St. Thomas Elgin General Hospital" },
+        { year: 2012, salary: 164009.53, taxableBenefits: 1842.11, position: "Vice President", employer: "St. Thomas Elgin General Hospital" },
+      ],
+      notes: "CPSO is a self-regulatory body funded by physician fees, not provincial government funding. Current CPSO salary not publicly disclosed through the Sunshine List. Data shown is from prior hospital role.",
+    },
   },
   {
     slug: "silvie-crawford",
@@ -363,6 +561,18 @@ export const people: Person[] = [
     },
     communications: [],
     publicStatements: [],
+    sunshineList: {
+      records: [
+        { year: 2022, salary: 148110.52, taxableBenefits: 1130.82, position: "Chief Executive Officer", employer: "Central West Specialized Developmental Services" },
+        { year: 2021, salary: 209999.92, taxableBenefits: 1045.09, position: "Chief Executive Officer", employer: "Central West Specialized Developmental Services" },
+        { year: 2019, salary: 143361.24, taxableBenefits: 183.02, position: "Executive VP and Chief Nursing Executive", employer: "Kingston Health Sciences Centre" },
+        { year: 2018, salary: 278464.25, taxableBenefits: 1102.29, position: "Executive VP and Chief Nursing Executive", employer: "Kingston Health Sciences Centre" },
+        { year: 2017, salary: 274446.44, taxableBenefits: 1097.58, position: "Executive VP and Chief Nursing Executive", employer: "Kingston Health Sciences Centre" },
+        { year: 2016, salary: 248800.72, taxableBenefits: 999.12, position: "Executive VP and Chief Nursing Executive", employer: "Kingston Health Sciences Centre" },
+        { year: 2015, salary: 137115.44, taxableBenefits: 582.82, position: "Executive VP and Chief Nursing Executive", employer: "Kingston General Hospital" },
+      ],
+      notes: "CNO is a self-regulatory body funded by nursing fees. Current CNO salary not publicly disclosed through the Sunshine List. Data shown is from prior roles.",
+    },
   },
   {
     slug: "matthew-anderson",
@@ -378,6 +588,26 @@ export const people: Person[] = [
     },
     communications: [],
     publicStatements: [],
+    sunshineList: {
+      records: [
+        { year: 2024, salary: 823200.19, taxableBenefits: 10452.40, position: "Chief Executive Officer", employer: "Ontario Health" },
+        { year: 2023, salary: 821000.22, taxableBenefits: 10802.40, position: "Chief Executive Officer", employer: "Ontario Health" },
+        { year: 2022, salary: 821800.17, taxableBenefits: 10802.40, position: "Chief Executive Officer", employer: "Ontario Health" },
+        { year: 2021, salary: 826000.09, taxableBenefits: 4220.80, position: "Chief Executive Officer", employer: "Ontario Health" },
+        { year: 2020, salary: 639064.84, taxableBenefits: 4500.16, position: "Chief Executive Officer", employer: "Ontario Health" },
+        { year: 2019, salary: 516167.65, taxableBenefits: 1664.91, position: "Chief Executive Officer", employer: "Lakeridge Health" },
+        { year: 2018, salary: 496606.99, taxableBenefits: 1590.81, position: "Chief Executive Officer", employer: "Lakeridge Health" },
+        { year: 2017, salary: 490000.00, taxableBenefits: 1755.90, position: "Chief Executive Officer", employer: "Lakeridge Health" },
+        { year: 2016, salary: 466928.61, taxableBenefits: 18989.04, position: "President and CEO", employer: "William Osler Health System" },
+        { year: 2015, salary: 478453.61, taxableBenefits: 27751.52, position: "President and CEO", employer: "William Osler Health System" },
+        { year: 2014, salary: 478410.08, taxableBenefits: 27291.45, position: "President and CEO", employer: "William Osler Health System" },
+        { year: 2013, salary: 484170.47, taxableBenefits: 29064.78, position: "President and CEO", employer: "William Osler Health System" },
+        { year: 2012, salary: 484169.70, taxableBenefits: 29184.67, position: "President and CEO", employer: "William Osler Health System" },
+        { year: 2011, salary: 445009.59, taxableBenefits: 28717.08, position: "President and CEO", employer: "William Osler Health System" },
+        { year: 2010, salary: 325199.33, taxableBenefits: 20900.18, position: "President and CEO", employer: "William Osler Health System" },
+      ],
+      notes: "Total Sunshine List career earnings from 2010-2024 exceed $8.4 million. Earning $823K+ annually as CEO of Ontario Health, the agency that oversees all Ontario hospitals.",
+    },
   },
   {
     slug: "nicole-robinson",
@@ -392,5 +622,19 @@ export const people: Person[] = [
     },
     communications: [],
     publicStatements: [],
+    sunshineList: {
+      records: [
+        { year: 2024, salary: 187710.76, taxableBenefits: 3142.14, position: "VP, System Strategy Planning Design and Implementation", employer: "Ontario Health" },
+        { year: 2023, salary: 180599.08, taxableBenefits: 2781.30, position: "VP, System Strategy Planning Design and Implementation", employer: "Ontario Health" },
+        { year: 2022, salary: 174351.84, taxableBenefits: 2259.60, position: "VP, System Strategy Planning Design and Implementation", employer: "Ontario Health" },
+        { year: 2021, salary: 125042.80, taxableBenefits: 686.79, position: "VP, System Strategy Planning Design and Implementation", employer: "Ontario Health" },
+        { year: 2019, salary: 161537.64, taxableBenefits: 0, position: "VP Integrated Delivery Systems", employer: "Local Health Integration Network - Erie St. Clair" },
+        { year: 2017, salary: 118336.87, taxableBenefits: 395.47, position: "Director Performance Improvement", employer: "Local Health Integration Network - South West" },
+        { year: 2016, salary: 117591.17, taxableBenefits: 303.51, position: "Team Lead, Performance Improvement", employer: "Local Health Integration Network - South West" },
+        { year: 2015, salary: 118488.22, taxableBenefits: 315.38, position: "Team Lead, Performance Improvement", employer: "Local Health Integration Network - South West" },
+        { year: 2014, salary: 111428.28, taxableBenefits: 315.38, position: "Team Lead, Performance Improvement", employer: "Local Health Integration Network - South West" },
+        { year: 2013, salary: 103590.38, taxableBenefits: 261.08, position: "Team Lead, Performance Improvement", employer: "Local Health Integration Network - South West" },
+      ],
+    },
   },
 ];

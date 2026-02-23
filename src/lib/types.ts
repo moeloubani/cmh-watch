@@ -1,3 +1,11 @@
+export interface SalaryRecord {
+  year: number;
+  salary: number;
+  taxableBenefits: number;
+  position: string;
+  employer: string;
+}
+
 export type PersonCategory =
   | "hospital-leadership"
   | "department-chief"
@@ -38,6 +46,10 @@ export interface Person {
     content: string;
     url?: string;
   }[];
+  sunshineList: {
+    records: SalaryRecord[];
+    notes?: string;
+  };
 }
 
 export interface TimelineEntry {
